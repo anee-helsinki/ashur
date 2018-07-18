@@ -6,6 +6,12 @@ The files in this folder are the files used for the analysis with SNA and PMI in
 
 *Text_analysed_window10* was used for SNA and PMI with a window of 10 words as described in our article on Aššur.
 
+*text_info* contains the Oracc identification files of all documents used for *Text_analysed_window10* with information on their genre, provenance etc.
+
+*textsOmitted* contains a list of all the files omitted from analysis because they are deemed duplicates (see below).
+
+The folder oracc_data contains the data extracted in September 2017 from the JSON-files provided by Oracc. The files named <project>_words have all the words in the data and files names metadata/<project>_meta have all the metadata provided in the JSON-files.
+
 ##### The making of *Text_analysed_window10*
 *Text_analysed_window10* file was used for analysis with Social Network Analysis and Pointwise Mutual Information (PMI) of divine names in Neo-Assyrian texts in Oracc as described in our aforementioned article. The file was additionally used for analysis with Word2vec and for finding collocates with PMI. Therefore, it contains information and work done that is not needed for the analyses in the Aššur article.
 
