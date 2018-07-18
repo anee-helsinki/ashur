@@ -1,0 +1,28 @@
+{
+  "type": "catalogue",
+  "project": "aemw/alalakh/idrimi",
+  "source": "http://oracc.org/aemw/alalakh/idrimi",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2017-06-21T21:44:41",
+  "members": {
+    "X123456": {
+      "project": "aemw/alalakh/idrimi",
+      "accession_no": "1939,0613.101",
+      "author": "Dietrich, M. and O. Loretz",
+      "credits": "Edition by Jacob Lauinger",
+      "designation": "Statue of Idrimi",
+      "genre": "Royal Inscription",
+      "id_text": "X123456",
+      "last_modified": "06/07/2015",
+      "museum_no": "BM 130738",
+      "period": "Middle Babylonian",
+      "primary_publication": "UF 13, 201-268",
+      "provenience": "Alalakh",
+      "publication_date": "1981",
+      "publication_history": "Smith 1949; Greenstein and Marcus 1976; Dietrich and Loretz 1981; Oller 1989; Durand 2011",
+      "supergenre": "LIT"
+    }
+  }
+}
