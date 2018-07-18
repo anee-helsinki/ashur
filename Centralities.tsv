@@ -1,0 +1,176 @@
+Degree centrality					Eigenvector centrality					Betweenness centrality					
+Full texts		Window of ten words			Full texts		Window of ten words			Full texts		Window of ten words		Window of ten words excluding the gods of the Arabs	
+Name	Score	Name	Score		Name	Score	Name	Score		Name	Score	Name	Score	Name	Score
+Šamaš	143	Ištar	49		Šamaš	1.00	Ištar	1.00		Marduk	859.2	Ea	1355.9	Ea	1274.0
+Enlil	137	Ea	47		Anu	0.98	Marduk	0.98		Šamaš	807.6	Šamaš	1186.6	Šamaš	1126.3
+Anu	136	Marduk	45		Enlil	0.98	Anu	0.96		Enlil	772.8	Ištar	1142.2	Ištar	1085.8
+Marduk	136	Anu	44		Ea	0.97	Adad	0.96		Nabu	768.1	Aššur	888.7	Marduk	751.2
+Ea	135	Enlil	43		Marduk	0.95	Enlil	0.94		Sin	730.6	Marduk	792.0	Enlil	695.4
+Sin	132	Adad	42		Sin	0.95	Ea	0.93		Anu	708.8	Enlil	735.0	Anu	597.1
+Nabu	129	Šamaš	39		Adad	0.94	Šamaš	0.91		Ea	672.0	Anu	629.4	Adad	581.3
+Adad	125	Ninurta	35		Nabu	0.93	Sin	0.87		Ištar	637.3	Adad	612.1	Sin	579.9
+Ištar	122	Sin	35		Ištar	0.91	Nergal	0.85		Adad	544.3	Sin	611.7	Uraš	543.5
+Ninurta	116	Nergal	34		Ninurta	0.90	Nabu	0.85		Ninurta	396.8	Uraš	582.3	Enki	534.3
+Nergal	115	Aššur	32		Nergal	0.89	Aššur	0.83		Nergal	375.4	Enki	557.4	Asalluhi	434.0
+Anunnaki	102	Nabu	32		Nusku	0.82	Mullissu	0.81		Anunnaki	316.2	Asalluhi	440.0	Ninurta	374.9
+Aššur	97	Uraš	28		Anunnaki	0.80	Ninurta	0.80		Nusku	285.2	Ninurta	399.4	Nanaya	340.9
+Nusku	97	Nusku	27		Aššur	0.79	Nusku	0.76		Asalluhi	267.1	Nanaya	352.9	Nergal	323.9
+Asalluhi	88	Mullissu	26		Sebettu	0.75	Belet-ili	0.70		Nanaya	256.3	Nergal	346.0	Nabu	296.6
+Belet-ili	87	Bel	25		Belet-ili	0.74	Bel	0.69		Aššur	225.0	Nabu	314.9	Enkidu	248.0
+Igigi	82	Belet-ili	25		Zababa	0.72	Uraš	0.68		Bel	189.8	Enkidu	260.0	Gula	173.3
+Uraš	81	Gula	22		Zarpanitu	0.72	Šeruʾa	0.67		Uraš	186.8	Gula	185.1	Mullissu	152.8
+Sebettu	80	Zarpanitu	22		Igigi	0.70	Šala	0.67		Belet-ili	158.0	Mullissu	160.9	Nusku	151.5
+Zababa	79	Asalluhi	21		Asalluhi	0.70	Zarpanitu	0.67		Gula	153.1	Nusku	160.8	Damgalnunak	136.4
+Zarpanitu	79	Šala	21		Uraš	0.70	Gula	0.63		Igigi	135.1	Damgalnunak	143.2	Bel	132.8
+Bel	78	Šeruʾa	20		Gula	0.69	Ningal	0.61		Ningal	111.0	Bel	143.1	Aššur	132.7
+Gula	78	Ningal	19		Mullissu	0.68	Antu	0.54		Zababa	102.5	Belet-ili	141.4	Anunnaki	131.6
+Mullissu	76	Tašmetu	18		Damkina	0.67	Tašmetu	0.54		Mullissu	95.2	Anunnaki	139.1	Namma	128.8
+Ningal	71	Antu	17		Madanu	0.66	Aya	0.49		Enki	94.7	Namma	134.8	Belet-ili	128.4
+Dagan	70	Nanaya	16		Ningal	0.66	Sebettu	0.45		Zarpanitu	91.9	Gilgameš	131.0	Gilgameš	125.0
+Damkina	69	Aya	15		Dagan	0.66	Anunnaki	0.40		Sebettu	68.8	Abirillu	127.0	Anzu	105.1
+Madanu	68	Anunnaki	13		Tašmetu	0.65	Igigi	0.38		Erra	62.8	Atar-quruma	127.0	Zarpanitu	97.3
+Baba	67	Enki	13		Bel	0.65	Asalluhi	0.37		Dagan	61.3	Ruldawu	127.0	Damkina	75.7
+Tašmetu	66	Igigi	13		Antu	0.64	Nanaya	0.36		Madanu	58.2	Anzu	108.8	Annunitu	59.3
+Antu	65	Sebettu	13		Baba	0.64	Damkina	0.35		Baba	55.9	Zarpanitu	104.6	Kusu	44.9
+Nanaya	65	Zababa	13		Ninŋirsuk	0.63	Zababa	0.34		Tišpak	51.1	Damkina	75.7	Erra	41.2
+Tišpak	64	Anzu	12		Išum	0.62	Laṣ	0.32		Šala	49.2	Annunitu	61.6	Gašanguedena	38.4
+Ninŋirsuk	63	Damkina	11		Tišpak	0.62	Kippat-mati	0.30		Nisaba	49.2	Kusu	44.9	Gubara	38.4
+Išum	62	Kusu	11		Šala	0.60	Ninmah	0.28		Tašmetu	46.6	Tiamat	42.0	Martu	38.4
+Šala	61	Laṣ	11		Ninlil	0.58	Kusu	0.25		Damkina	46.0	Erra	41.2	Tašmetu	33.7
+Ninlil	59	Kakka	10		Palil	0.57	Papsukkal	0.25		Ninlil	45.5	Gašanguedena	40.1	Tiamat	33.0
+Enki	58	Erra	9		Girra	0.56	Anzu	0.24		Asari	39.6	Gubara	40.1	Ninlil	31.6
+Palil	57	Haya	9		Šeruʾa	0.55	Tišpak	0.22		Damgalnunak	38.3	Martu	40.1	Ningal	27.4
+Erra	56	Kippat-mati	9		Papsukkal	0.55	Erra	0.22		Palil	38.2	Tašmetu	39.5	Zababa	25.0
+Papsukkal	56	Dagan	8		Nanaya	0.54	Annunitu	0.22		Anzu	36.3	Ninlil	31.6	Sebettu	21.9
+Girra	54	Dunga	8		Aya	0.53	Haya	0.20		Antu	36.3	Ningal	30.5	Amanki	21.8
+Nisaba	54	Lumha	8		Kakka	0.53	Dagan	0.19		Ninŋirsuk	36.3	Palil	27.4	Palil	21.4
+Kakka	53	Ninmah	8		Ninagal	0.53	Ninŋirsuk	0.18		Išum	31.0	Zababa	25.0	Šeruʾa	19.9
+Ninagal	52	Ninŋirsuk	8		Šazu	0.52	Kakka	0.18		An	29.6	Amanki	22.7	Namtar	19.8
+Šazu	52	Niššiku	8		Tutu	0.51	Ninlil	0.17		Kakka	27.8	Sebettu	21.9	Kakka	18.6
+Šeruʾa	52	Tišpak	8		Nisaba	0.51	Asaralimnuna	0.16		Papsukkal	27.2	Šeruʾa	21.7	An	17.7
+Anzu	51	Annunitu	7		Humhum	0.51	Baba	0.16		Girra	25.7	Namtar	19.8	Asari	17.5
+Aya	51	Egalkiba	7		Erra	0.50	Niššiku	0.16		Nudimmud	23.2	Kakka	18.6	Šala	13.2
+Tutu	50	Papsukkal	7		Ninegalak	0.49	Palil	0.16		Asakku	21.1	An	17.7	Igigi	11.5
+Asari	48	Abirillu	6		Amurru	0.49	Dunga	0.16		Šazu	21.1	Asari	17.5	Niššiku	10.4
+Tiamat	48	Asari	6		Tiamat	0.48	Lumha	0.16		Ninagal	20.7	Igigi	13.8	Panunanki	10.0
+Amurru	46	Atar-quruma	6		Enki	0.48	Enki	0.16		Utu	20.2	Šala	13.2	Ninŋirsuk	9.2
+Humhum	46	Baba	6		Anzu	0.47	Asakku	0.15		Tiamat	19.7	Niššiku	10.4	Haya	7.7
+Nudimmud	45	Damgalnunak	6		Laṣ	0.46	Belet	0.15		Annunitu	19.2	Panunanki	10.0	Laṣ	7.3
+Šarur	45	Namma	6		Annunitu	0.46	Namma	0.14		Niššiku	18.7	Ninŋirsuk	9.2	Antu	7.0
+Annunitu	44	Namtar	6		Šarur	0.45	Namtar	0.14		Šarur	17.7	Antu	8.9	Belet-Babili	7.0
+Asakku	44	Ninlil	6		Kubaba	0.45	An	0.14		Panunanki	17.3	Dagan	8.0	Tišpak	5.6
+Kusu	44	Palil	6		Beltiya	0.45	Beltiya	0.14		Namma	15.6	Haya	7.7	Kugsud	4.3
+Ninegalak	44	Ruldawu	6		Kusu	0.45	Išum	0.13		Aya	15.1	Laṣ	7.3	Dagan	3.7
+Niššiku	44	Amanki	5		Nudimmud	0.44	Belet-Babili	0.12		Namtar	14.9	Belet-Babili	7.0	Ereškigal	3.6
+Beltiya	43	An	5		Asakku	0.44	Nanna	0.12		Tutu	14.7	Tišpak	5.6	Asakku	2.8
+Laṣ	41	Asakku	5		Asari	0.44	Tiamat	0.12		Dumuzi	14.6	Kugsud	4.3	Anšar	2.7
+Damgalnunak	40	Atar-samayin	5		Niššiku	0.43	Egalkiba	0.12		Martu	14.6	Ereškigal	3.6	Baba	2.3
+Enbilulu	40	Belet	5		Ninmah	0.43	Tutu	0.11		Šeruʾa	14.1	Aya	2.9	Girra	2.2
+Kubaba	39	Belet-Babili	5		Enbilulu	0.43	Asari	0.11		Ištaran	11.8	Asakku	2.8	Madanu	2.2
+Ninmah	38	Beltiya	5		Belet-balaṭi	0.42	Birdu	0.11		Kusu	11.7	Anšar	2.7	Ninmah	2.0
+Asaralimnuna	37	Daya	5		Ennugi	0.41	Belet-balaṭi	0.10		Beltiya	11.7	Šarur	2.7	Aya	1.8
+Belet-balaṭi	37	Gašanguedena	5		Ninŋešzidak	0.40	Suen	0.10		Meslamtaea	11.4	Baba	2.3	Dunga	1.7
+Namma	37	Gubara	5		Ninšiku	0.39	Ninegalak	0.10		Lugalbanda	10.8	Girra	2.2	Lumha	1.7
+Ninŋešzidak	37	Martu	5		Belet-Babili	0.38	Mami	0.10		Lamaštu	9.9	Madanu	2.2	Papsukkal	1.5
+An	36	Nuhaya	5		Asaralimnuna	0.37	Madanu	0.10		Nanna	9.5	Ninmah	2.0	Šara	1.1
+Ennugi	36	Tiamat	5		Haya	0.37	Šarur	0.09		Amurru	9.5	Dunga	1.7	Ninki	1.1
+Enmešara	35	Tutu	5		Enmešara	0.37	Duranki	0.09		Enmešara	9.1	Lumha	1.7	Iškur	1.0
+Ninšiku	35	Asaralimnuna	4		Mamu	0.36	Damgalnunak	0.08		Asaralimnuna	9.0	Papsukkal	1.5	Beltiya	1.0
+Belet-Babili	34	Ereškigal	4		Uṣur-amassu	0.36	Enbilulu	0.08		Enbilulu	8.3	Šara	1.1	Išum	0.9
+Haya	34	Išum	4		Lamaštu	0.36	Nudimmud	0.08		Muzebašeʾa	7.7	Ninki	1.1	Mami	0.6
+Lamaštu	34	Madanu	4		Namma	0.36	Manzat	0.08		Ninŋešzidak	6.5	Iškur	1.0	Tutu	0.6
+Anšar	33	Mami	4		Kippat-mati	0.36	Kulla	0.08		Lugal-Maradak	6.0	Beltiya	1.0	Gibil	0.5
+Ištaran	32	Muluhursaŋa	4		Kusibanda	0.36	Kugsud	0.06		Namraṣit	5.7	Išum	0.9	Nanna	0.5
+Kusibanda	32	Nanna	4		Mar-biti	0.35	Nanše	0.06		Humhum	5.7	Mami	0.6	Šarur	0.4
+Uṣur-amassu	32	Panunanki	4		Anšar	0.35	Sadarnuna	0.06		Belet	5.3	Tutu	0.6	Ninegalak	0.4
+Dumuzi	31	Šarur	4		Damgalnunak	0.34	Ereškigal	0.06		Ninegalak	5.0	Gibil	0.5	Sadarnuna	0.1
+Kippat-mati	31	Belet-balaṭi	3		Ištaran	0.34	Ninki	0.06		Qingu	5.0	Nanna	0.5	Alu	0.0
+Lugalbanda	31	Birdu	3		Anat-Baiti-ili	0.32	Šara	0.05		Duranki	4.9	Ninegalak	0.4	Amurriqanu	0.0
+Mar-biti	31	Duranki	3		Baiti-ili	0.32	Panunanki	0.05		Laṣ	4.6	Sadarnuna	0.1	Anat-Baiti-ili	0.0
+Mamu	30	Kugsud	3		Dumuzi	0.31	Lugalira	0.05		Išhara	4.5	Alu	0.0	Asaralimnuna	0.0
+Namtar	30	Lugalira	3		Nanna	0.31	Meslamtaea	0.05		Ninki	4.2	Amurriqanu	0.0	Baiti-ili	0.0
+Duranki	29	Meslamtaea	3		Lugalbanda	0.30	Girra	0.05		Nanše	3.9	Anat-Baiti-ili	0.0	Belet	0.0
+Panunanki	29	Nanše	3		Sumuqan	0.30	Iškur	0.05		Nintinuga	3.9	Asaralimnuna	0.0	Belet-Arbail	0.0
+Martu	28	Ninegalak	3		Kulla	0.30	Amurriqanu	0.05		Gašanguedena	3.9	Atar-samayin	0.0	Belet-balaṭi	0.0
+Nanna	28	Ninki	3		Šulak	0.30	Gašankatešasiga	0.05		Gubara	3.9	Baiti-ili	0.0	Belet-ekalli	0.0
+Šulak	28	Suen	3		An	0.30	Abirillu	0.05		Mami	3.8	Belet	0.0	Belet-parṣi	0.0
+Utu	27	Amurriqanu	2		Id	0.29	Atar-quruma	0.05		Anšar	3.8	Belet-Arbail	0.0	Belet-ṣeri	0.0
+Id	26	Anat-Baiti-ili	2		Duranki	0.29	Ruldawu	0.05		Uṣur-amassu	3.7	Belet-balaṭi	0.0	Birdu	0.0
+Mami	26	Anšar	2		Ninildum	0.28	Gazbaba	0.04		Damu	3.5	Belet-ekalli	0.0	Bunene	0.0
+Ninildum	26	Baiti-ili	2		Namtar	0.27	Inanak	0.04		Kusibanda	3.4	Belet-parṣi	0.0	Buru	0.0
+Qingu	26	Dimme	2		Mami	0.27	Kidmuru	0.04		Šulak	3.4	Belet-ṣeri	0.0	Damu	0.0
+Anat-Baiti-ili	25	Dimmea	2		Belet-Ninua	0.27	Belet-parṣi	0.04		Ninšiku	3.3	Birdu	0.0	Dikudmah	0.0
+Baiti-ili	25	Enbilulu	2		Ninkura	0.26	Šazu	0.04		Belet-balaṭi	3.3	Bunene	0.0	Dimme	0.0
+Kulla	25	Enkidu	2		Šarrat-niphi	0.25	Qingu	0.04		Gašanana	3.3	Buru	0.0	Dimmea	0.0
+Sumuqan	25	Gašankatešasiga	2		Qingu	0.25	Buru	0.04		Lisikutu	3.2	Damu	0.0	Dumuzi	0.0
+Ninkura	24	Gibil	2		Ereškigal	0.24	Ištaran	0.04		Gašankatešasiga	3.2	Daya	0.0	Duranki	0.0
+Lugal-Maradak	23	Gilgameš	2		Martu	0.24	Nisaba	0.04		Ninmah	3.1	Dikudmah	0.0	Egalkiba	0.0
+Meslamtaea	23	Girra	2		Lugal-Maradak	0.24	Dumuzi	0.04		Belet-Babili	2.9	Dimme	0.0	Enbilulu	0.0
+Muzebašeʾa	23	Iškur	2		Dunga	0.24	Enkidu	0.04		Kulla	2.9	Dimmea	0.0	Gašankatešasiga	0.0
+Dunga	22	Kubaba	2		Egalkiba	0.24	Namraṣit	0.04		Ennugi	2.5	Dumuzi	0.0	Gazbaba	0.0
+Egalkiba	22	Kulla	2		Lumha	0.24	Utu	0.04		Mar-biti	2.5	Duranki	0.0	Id	0.0
+Lumha	22	Lamaštu	2		Namraṣit	0.24	Alu	0.04		Haya	2.5	Egalkiba	0.0	Inanak	0.0
+Gašanguedena	21	Manzat	2		Kidmuru	0.24	Belet-ṣeri	0.04		Inanak	2.5	Enbilulu	0.0	Išhara	0.0
+Gubara	21	Muzebašeʾa	2		Sadarnuna	0.23	Šulpae	0.04		Gilgameš	2.4	Gašankatešasiga	0.0	Ištaran	0.0
+Nanše	21	Nudimmud	2		Išhara	0.23	Lisikutu	0.04		Suen	2.4	Gazbaba	0.0	Kidmuru	0.0
+Šara	21	Sadarnuna	2		Panunanki	0.23	Belet-Arbail	0.03		Lugalira	2.3	Id	0.0	Kippat-mati	0.0
+Belet-Ninua	20	Šara	2		Šara	0.23	Muzebašeʾa	0.03		Ninildum	2.2	Inanak	0.0	Kittu	0.0
+Ereškigal	20	Alu	1		Utu	0.22	Belet-ekalli	0.03		Amanki	2.0	Išhara	0.0	Kubaba	0.0
+Išhara	20	Belet-Arbail	1		Amurriqanu	0.21	Damu	0.03		Šara	2.0	Ištaran	0.0	Kulla	0.0
+Namraṣit	20	Belet-ekalli	1		Nunamnir	0.21	Anšar	0.02		Manungal	1.9	Kidmuru	0.0	Kusibanda	0.0
+Gašankatešasiga	19	Belet-parṣi	1		Belet	0.21	Gibil	0.02		Alu	1.8	Kippat-mati	0.0	Lamaštu	0.0
+Ninki	19	Belet-ṣeri	1		Nanše	0.20	Dikudmah	0.02		Belet-Akkad	1.8	Kittu	0.0	Lisikutu	0.0
+Nunamnir	19	Bunene	1		Meslamtaea	0.19	Manungal	0.02		Id	1.7	Kubaba	0.0	Lugalbanda	0.0
+Šarrat-niphi	19	Buru	1		Belet-parṣi	0.19	Išhara	0.02		Kubaba	1.6	Kulla	0.0	Lugalira	0.0
+Amanki	18	Damu	1		Abirillu	0.19	Uṣur-amassu	0.02		Enkidu	1.6	Kusibanda	0.0	Manungal	0.0
+Belet	18	Dikudmah	1		Atar-quruma	0.19	Gašanguedena	0.01		Ninkura	1.3	Lamaštu	0.0	Manzat	0.0
+Birdu	18	Dumuzi	1		Atar-samayin	0.19	Gubara	0.01		Sumuqan	1.3	Lisikutu	0.0	Meslamtaea	0.0
+Kidmuru	18	Gazbaba	1		Daya	0.19	Martu	0.01		Nunamnir	1.2	Lugalbanda	0.0	Muluhursaŋa	0.0
+Sadarnuna	18	Id	1		Nuhaya	0.19	Atar-samayin	0.01		Manzat	1.1	Lugalira	0.0	Muzebašeʾa	0.0
+Abirillu	17	Inanak	1		Ruldawu	0.19	Daya	0.01		Belet-Arbail	1.0	Manungal	0.0	Namraṣit	0.0
+Amurriqanu	17	Išhara	1		Gibil	0.19	Nuhaya	0.01		Belet-Ninua	1.0	Manzat	0.0	Nanše	0.0
+Atar-quruma	17	Ištaran	1		Kubu	0.18	Amanki	0.01		Mummu	0.8	Meslamtaea	0.0	Ninagal	0.0
+Atar-samayin	17	Kidmuru	1		Birdu	0.18	Id	0.01		Ninigizibara	0.7	Muluhursaŋa	0.0	Nisaba	0.0
+Daya	17	Kittu	1		Ninki	0.18	Muluhursaŋa	0.01		Kittu	0.6	Muzebašeʾa	0.0	Nudimmud	0.0
+Gibil	17	Kusibanda	1		Lugalira	0.18	Gilgameš	0.00		Kugsud	0.6	Namraṣit	0.0	Qingu	0.0
+Gilgameš	17	Lisikutu	1		Gilgameš	0.18	Anat-Baiti-ili	0.00		Ereškigal	0.5	Nanše	0.0	Šazu	0.0
+Lugalira	17	Lugalbanda	1		Damu	0.17	Baiti-ili	0.00		Kubu	0.5	Ninagal	0.0	Suen	0.0
+Nuhaya	17	Manungal	1		Muzebašeʾa	0.17	Dimme	0.00		Kippat-mati	0.5	Nisaba	0.0	Šulpae	0.0
+Ruldawu	17	Namraṣit	1		Manzat	0.17	Dimmea	0.00		Iškur	0.4	Nudimmud	0.0	Uṣur-amassu	0.0
+Damu	16	Ninagal	1		Belet-Akkad	0.16	Kubaba	0.00		Šulpae	0.3	Nuhaya	0.0	Utu	0.0
+Nintinuga	16	Nisaba	1		Enkidu	0.16	Lamaštu	0.00		Ziqiqu	0.3	Qingu	0.0		
+Belet-Akkad	15	Qingu	1		Ziqiqu	0.15	Lugalbanda	0.00		Gibil	0.3	Šazu	0.0		
+Enkidu	15	Šazu	1		Šarrat-Nippur	0.15	Bunene	0.00		Dimme	0.3	Suen	0.0		
+Belet-parṣi	14	Šulpae	1		Gašanguedena	0.15	Kittu	0.00		Dimmea	0.3	Šulpae	0.0		
+Kubu	14	Uṣur-amassu	1		Gubara	0.15	Kusibanda	0.00		Ninimma	0.2	Uṣur-amassu	0.0		
+Ninnibruk	14	Utu	1		Belet-Arbail	0.15	Ninagal	0.00		Bunene	0.2	Utu	0.0		
+Belet-Arbail	13				Amanki	0.14				Dikudmah	0.2				
+Kugsud	13				Šulpae	0.14				Belet-ekalli	0.2				
+Manungal	13				Nintinuga	0.14				Kidmuru	0.2				
+Manzat	13				Gašankatešasiga	0.13				Sadarnuna	0.1				
+Alu	12				Mummu	0.13				Mamu	0.1				
+Dimme	12				Manungal	0.13				Šarrat-niphi	0.1				
+Dimmea	12				Kugsud	0.13				Dunga	0.1				
+Iškur	12				Erua	0.13				Egalkiba	0.1				
+Muluhursaŋa	12				Kittu	0.13				Lumha	0.1				
+Mummu	12				Alu	0.12				Belet-ṣeri	0.1				
+Ziqiqu	12				Ninnibruk	0.11				Amurriqanu	0.0				
+Kittu	11				Belet-ṣeri	0.11				Abirillu	0.0				
+Šarrat-Nippur	11				Dimme	0.10				Anat-Baiti-ili	0.0				
+Šulpae	11				Dimmea	0.10				Atar-quruma	0.0				
+Erua	10				Bunene	0.10				Atar-samayin	0.0				
+Bunene	9				Banitu	0.10				Baiti-ili	0.0				
+Banitu	8				Iškur	0.09				Banitu	0.0				
+Belet-ṣeri	8				Ninimma	0.09				Belet-parṣi	0.0				
+Dikudmah	8				Suen	0.09				Birdu	0.0				
+Ninimma	8				Lisikutu	0.09				Buru	0.0				
+Suen	8				Muluhursaŋa	0.08				Daya	0.0				
+Lisikutu	7				Dikudmah	0.07				Erua	0.0				
+Belet-ekalli	6				Belet-ekalli	0.06				Gazbaba	0.0				
+Gazbaba	5				Gazbaba	0.05				Muluhursaŋa	0.0				
+Inanak	5				Inanak	0.04				Ninnibruk	0.0				
+Gašanana	4				Buru	0.04				Nuhaya	0.0				
+Buru	3				Šarrat-samme	0.03				Ruldawu	0.0				
+Ninigizibara	3				Gašanana	0.03				Šarrat-Nippur	0.0				
+Šarrat-samme	3				Ninigizibara	0.02				Šarrat-samme	0.0				
+															
