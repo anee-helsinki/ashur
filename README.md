@@ -8,4 +8,6 @@ This is the repository for the data used for and generated during our research f
 
 <b>visualizations:</b> visualizations of the networks
 
-<b>Centralities.pdf & Centralities.tsv</b>
+<b>Centralities.pdf & Centralities.tsv:</b> network centrality scores
+
+<b>Standardized_divine_names.txt:</b> list of standardized divine names
