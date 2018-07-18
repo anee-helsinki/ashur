@@ -1,6 +1,6 @@
 Description of different visualizations and the parameters used in the ForceAtlas2 algorithm in Gephi to create them.
 
-Text_full
+Text_full.pdf
 Co-occurrences in full texts, full network.
 ForceAtlas2
 Tolerance 1.0
@@ -11,7 +11,7 @@ LinLog mode on
 Prevent overlap on
 Edge Weight Influence 1.0
 
-Text_Assur-ego
+Text_Assur-ego.pdf
 Co-occurrences in full texts, Ashur's ego network.
 ForceAtlas2
 Tolerance 1.0
@@ -22,7 +22,7 @@ LinLog mode on
 Prevent overlap on
 Edge Weight Influence 1.0
 
-Text_full_-Arabs
+Text_full_-Arabs.pdf
 Co-occurrences in full texts, full network excluding the gods of the Arabs.
 ForceAtlas2
 Tolerance 1.0
@@ -33,7 +33,7 @@ LinLog mode on
 Prevent overlap on
 Edge Weight Influence 1.0
 
-W10_co-occurrences_full
+W10_co-occurrences_full.pdf
 Co-occurrences in a window of ten words, full network.
 ForceAtlas2
 Tolerance 1.0
@@ -44,7 +44,7 @@ LinLog mode on
 Prevent overlap on
 Edge Weight Influence 1.0
 
-W10_co-occurrences_Assur-ego
+W10_co-occurrences_Assur-ego.pdf
 Co-occurrences in a window of ten words, Ashur's ego network.
 ForceAtlas2
 Tolerance 1.0
@@ -55,7 +55,7 @@ LinLog mode on
 Prevent overlap on
 Edge Weight Influence 1.0
 
-W10_co-occurrences_full_-Arabs
+W10_co-occurrences_full_-Arabs.pdf
 Co-occurrences in a window of ten words, full network excluding the gods of the Arabs.
 ForceAtlas2
 Tolerance 1.0
@@ -66,7 +66,7 @@ LinLog mode on
 Prevent overlap on
 Edge Weight Influence 1.0
 
-PMI_full
+PMI_full.pdf
 Window of ten words with PMI values as tie strength, full network.
 ForceAtlas2
 Tolerance 1.0
@@ -77,7 +77,8 @@ LinLog mode on
 Prevent overlap on
 Edge Weight Influence 1.0
 
-PMI_Assur-ego (Four variants showing the community structure of Ashur's ego network. Files PMI_Assur-ego_mod1,2,3 show the three different divisions produced by the modularity algorithm. PMI_Assur-ego_groups_BW shows the division in communities and subunits that is discussed in the article.)
+PMI_Assur-ego_groups_BW.pdf, PMI_Assur-ego_mod1.pdf, PMI_Assur-ego_mod2.pdf, PMI_Assur-ego_mod3.pdf
+Four variants showing the community structure of Ashur's ego network. Files PMI_Assur-ego_mod1,2,3 show the three different divisions produced by the modularity algorithm. PMI_Assur-ego_groups_BW shows the division in communities and subunits that is discussed in the article.
 Window of ten words with PMI values as tie strength, Ashur's ego network.
 ForceAtlas2
 Tolerance 1.0
@@ -88,7 +89,7 @@ LinLog mode on
 Prevent overlap on
 Edge Weight Influence 1.0
 
-PMI_full_-Arabs
+PMI_full_-Arabs.pdf
 Window of ten words with PMI values as tie strength, full network excluding the gods of the Arabs.
 ForceAtlas2
 Tolerance 1.0
