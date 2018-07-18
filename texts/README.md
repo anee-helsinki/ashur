@@ -1,4 +1,4 @@
-### Texts used for Aššur “Aššur and his Friends”
+### Texts used for “Aššur and his Friends”
 
 The files in this folder are the files used for the analysis with SNA and PMI in our article called “Aššur and his Friends” plus the file listing all the Neo-Assyrian texts used.
 
