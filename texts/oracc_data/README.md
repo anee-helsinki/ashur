@@ -1,1 +1,1 @@
-This folder contains the data extracted in September 2017 from the JSON-files provided by Oracc. The files named \<project\>_words have all the words in the data and files names metadata/\<project\>_meta have all the metadata provided in the JSON-files.
+This folder contains the data extracted in September 2017 from the JSON-files provided by Oracc. The files named *\<project\>_words* have all the words in the data and files names *metadata/\<project\>_meta* have all the metadata provided in the JSON-files.
