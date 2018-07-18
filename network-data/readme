@@ -1,1 +1,11 @@
+Final_graphs.gephi
+Project file created with the Gephi software.
 
+PMI_full_edge_list_neoA_textMay18_2018_05_30.tsv
+Edge list of connected nodes and the tie strength (PMI score) between them. This data was used for creating networks with a small window and PMI values.
+
+Text_full_node_list_neoAJune18_2018_06_07.tsv
+Node list of texts and gods attested in them. This data was used for creating networks with full texts.
+
+W10_co-occurrences_full_edge_list_may2018_freqs_2018_06_05.tsv
+Edge list of connected nodes and the tie strength (number of co-occurrences) between them. This data was used for creating networks with a small window and the number of co-occurrences as tie strength.
