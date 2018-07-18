@@ -2,6 +2,10 @@
 
 The files in this folder are the files used for the analysis with SNA and PMI in our article called “Aššur and his Friends” plus the file listing all the Neo-Assyrian texts used.
 
+*Text_analysed_SNA* is a list linking a document to a god attested in it. Texts that only contained one god were discarded. This nodelist was imported into the social network analysis software UCINET and processed into a two-mode network linking gods to the texts in which they are attested. The two-mode network was further transformed into a one-mode undirected network linking gods who appear in the same texts.
+
+*Text_analysed_window10* was used for SNA and PMI with a window of 10 words.
+
 ##### The making of Text_analysed_window10
 Text_analysed_window10 file was used for analysis with Social Network Analysis and Pointwise Mutual Information (PMI) of divine names in Neo-Assyrian texts in Oracc as described in our aforementioned article. The file was additionally used for analysis with Word2vec and for finding collocates with PMI. Therefore, it contains information and work done that is not needed for the analyses in the Aššur article.
 
