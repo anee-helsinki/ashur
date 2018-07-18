@@ -4,7 +4,7 @@ Text_full_egonet_data
 Dataset: co-occurrences in full texts, full network.
 
 W10_co-occurrences_full_egonet_data
-Dataset: co-occurrences in full texts, full network excluding the gods of the Arabs
+Dataset: co-occurrences in a window of ten words, full network.
 
 W10_co-occurrences_full_egonet_data
-Dataset: co-occurrences in a window of ten words, full network.
+Dataset: co-occurrences in a window of ten words, full network excluding the gods of the Arabs.
