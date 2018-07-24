@@ -3,8 +3,8 @@ Basic measures of all ego networks in three different datasets, created with UCI
 Text_full_egonet_data.txt
 Dataset: co-occurrences in full texts, full network.
 
-W10_co-occurrences_full_egonet_data.txt
-Dataset: co-occurrences in a window of ten words, full network.
-
 W10_co-occurrences_full_-Arabs_egonet_data.txt
 Dataset: co-occurrences in a window of ten words, full network excluding the gods of the Arabs.
+
+W10_co-occurrences_full_egonet_data.txt
+Dataset: co-occurrences in a window of ten words, full network.
