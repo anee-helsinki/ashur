@@ -1,7 +1,8 @@
 ﻿LIST OF STANDARDIZED DIVINE NAMES
 
 This list includes the divine names which were standardized for analysis.
-The rest of the divine names in the corpus were left as they were. The preferred standardization is on the left side of the equals signs and the variants are on the right side.
+The rest of the divine names in the corpus were left as they were.
+The preferred standardization is on the left side of the equals signs and the variants are on the right side.
 
 Abaralah == Abara-DUDU
 Abmunzerkiʾaŋ == Abmunzerkiʾag
