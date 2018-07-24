@@ -1,6 +1,8 @@
 <b>egonets:</b> data on ego networks
 
-<b>network-data:</b> edge lists and node lists used for creating the networks; Gephi and UCINET datasets.
+<b>network-data:</b> edge lists and node lists used for creating networks; Gephi and UCINET datasets
+
+<b>scripts:</b> scripts created to analyze our data
 
 <b>texts:</b> text corpus from which the network data was extracted
 
