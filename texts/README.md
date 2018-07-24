@@ -6,7 +6,7 @@ The folder *oracc_data* contains the data extracted in September 2017 from the J
 
 *Text_analysed_window10* is a single text file which contains all the texts used for SNA and PMI with a window of 10 words.
 
-*text_info* contains the Oracc identification files of all documents used for *Text_analysed_window10* with information on their genre, provenance etc.
+*Text_info.tsv* contains the Oracc identification files of all documents used for *Text_analysed_window10* with information on their genre, provenance, etc.
 
 *textsOmitted* contains a list of all the files omitted from analysis because they are deemed duplicates (see below).
 
