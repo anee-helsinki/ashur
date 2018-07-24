@@ -2,19 +2,25 @@ Final_graphs.gephi
 Project file created with the Gephi software.
 
 PMI_full_edge_list_neoA_textMay18_2018_05_30.tsv
-Edge list of connected nodes and the tie strength (PMI score) between them. This data was used for creating networks with a small window and PMI values.
+Edge list of connected nodes and the tie strength (PMI score) between them.
+This data was used for creating networks with a small window and PMI values.
 
 Text_full_node_list_neoAJune18_2018_06_07.tsv
-Node list of texts and gods attested in them. This data was used for creating networks with full texts.
+Node list of texts and gods attested in them.
+This data was used for creating networks with full texts.
 
 Text_full_Rows-diagonal0.##d & Text_full_Rows-diagonal0.##h
-UCINET dataset created from Text_full_node_list_neoAJune18_2018_06_07.tsv. Undirected network, self-loops removed (diagonal of the matrix is 0).
+UCINET dataset created from Text_full_node_list_neoAJune18_2018_06_07.tsv.
+Undirected network, self-loops removed (diagonal of the matrix is 0).
 
 W10_co-occurrences_full.##d & W10_co-occurrences_full.##h
-UCINET dataset created from W10_co-occurrences_full_edge_list_may2018_freqs_2018_06_05.tsv. Undirected network, self-loops removed (diagonal of the matrix is 0).
+UCINET dataset created from W10_co-occurrences_full_edge_list_may2018_freqs_2018_06_05.tsv.
+Undirected network, self-loops removed (diagonal of the matrix is 0).
 
 W10_co-occurrences_full_-Arabs.##d & W10_co-occurrences_full_-Arabs.##h
-UCINET dataset created from W10_co-occurrences_full_edge_list_may2018_freqs_2018_06_05.tsv and the gods of the Arabs are removed. Undirected network, self-loops removed (diagonal of the matrix is 0).
+UCINET dataset created from W10_co-occurrences_full_edge_list_may2018_freqs_2018_06_05.tsv and the gods of the Arabs are removed.
+Undirected network, self-loops removed (diagonal of the matrix is 0).
 
 W10_co-occurrences_full_edge_list_may2018_freqs_2018_06_05.tsv
-Edge list of connected nodes and the tie strength (number of co-occurrences) between them. This data was used for creating networks with a small window and the number of co-occurrences as tie strength.
+Edge list of connected nodes and the tie strength (number of co-occurrences) between them.
+This data was used for creating networks with a small window and the number of co-occurrences as tie strength.
