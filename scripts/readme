@@ -1,1 +1,4 @@
 
+merge_lemmas.py
+
+A simple script for finding possibly inconsistently lemmatized words from Oracc.
