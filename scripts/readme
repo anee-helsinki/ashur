@@ -1,4 +1,8 @@
 
-merge_lemmas.py
+## Scripts
 
+#### merge_lemmas.py
 A simple script for finding possibly inconsistently lemmatized words from Oracc.
+
+#### pmizer.py
+A script that supports different collocation measures. It can be found from [here](https://github.com/asahala/Collocations).
