@@ -83,7 +83,9 @@ Prevent overlap on
 Edge Weight Influence 1.0
 
 PMI_Assur-ego_groups_BW.pdf, PMI_Assur-ego_mod1.pdf, PMI_Assur-ego_mod2.pdf, PMI_Assur-ego_mod3.pdf
-Four visualizations of Ashur's ego network. Files PMI_Assur-ego_mod1/2/3.pdf show the three different divisions produced by the modularity algorithm. PMI_Assur-ego_groups_BW.pdf shows the division in communities and subunits that is discussed in the article.
+Four visualizations of Ashur's ego network.
+Files PMI_Assur-ego_mod1/2/3.pdf show the three different divisions produced by the modularity algorithm.
+PMI_Assur-ego_groups_BW.pdf shows the division in communities and subunits that is discussed in the article.
 Window of ten words with PMI values as tie strength, Ashur's ego network.
 ForceAtlas2
 Tolerance 1.0
