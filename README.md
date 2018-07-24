@@ -8,6 +8,8 @@
 
 <b>Centralities.pdf & Centralities.tsv:</b> network centrality scores
 
+<b>Frequencies_gods.tsv</b>: A list of gods and their frequencies in our corpus of 1,532 texts.
+
 <b>Standardized_divine_names.txt:</b> list of standardized divine names
 
 <br><br>
