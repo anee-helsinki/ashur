@@ -1,5 +1,10 @@
 Description of different visualizations and the parameters used in the ForceAtlas2 algorithm in Gephi to create them.
 
+In all visualizations, we have used the following parameters for the modularity algorithm:
+Randomize on
+Use weights on
+Resolution 1.0
+
 Text_full.pdf
 Co-occurrences in full texts, full network.
 ForceAtlas2
