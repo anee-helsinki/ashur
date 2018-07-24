@@ -4,7 +4,7 @@ The files in this folder are the files used for the analysis with SNA and PMI in
 
 The folder *oracc_data* contains the data extracted in September 2017 from the JSON-files provided by Oracc. The files named *oracc_data/\<project\>_words* have all the words in the data and files names *oracc_data/metadata/\<project\>_meta* have all the metadata provided in the JSON-files.
 
-*Text_analyzed_window10* contains all the texts used for SNA and PMI with a window of 10 words in one file.
+*Text_analysed_window10* contains all the texts used for SNA and PMI with a window of 10 words in one file.
 
 *text_info* contains the Oracc identification files of all documents used for *Text_analysed_window10* with information on their genre, provenance etc.
 
