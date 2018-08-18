@@ -748,7 +748,7 @@ class Associations:
             scores comparable with NLTK/Collocations PMI measure """
             if WINDOW_SCALING:
                 if self.symmetry:
-                    return bf / (self.windowsize - 1 + self.windowsize - 1)
+                    return bf / (self.windowsize - 1) #test(self.windowsize - 1 + self.windowsize - 1)
                 else:
                     return bf / (self.windowsize - 1)
             else:
